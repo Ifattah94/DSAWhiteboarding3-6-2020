@@ -21,6 +21,6 @@ Given an array of numbers ranging from 2-9, return all possible letter combinati
 
 ![keypad](https://upload.wikimedia.org/wikipedia/commons/4/43/Telephone-keypad.svg)
 
-Input: "23"
+Input: [2,3]
 
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
