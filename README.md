@@ -17,7 +17,7 @@ Explanation: The value 1 has 3 occurrences, 2 has 2 and 3 has 1. No two values h
 
 ##### 2 . (This is a lot harder than the 1st one)
 
-Given an array of numbers ranging from 2-9, return all possible letter combinations that the number could represent.
+Given an array of numbers ranging from 2-9, return all possible letter combinations that the numbers could represent.
 
 ![keypad](https://upload.wikimedia.org/wikipedia/commons/4/43/Telephone-keypad.svg)
 
